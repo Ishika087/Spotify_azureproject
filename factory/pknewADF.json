@@ -1,0 +1,15 @@
+{
+	"name": "pknewADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7472813a-b25d-422b-ba99-270ea7b08897",
+		"tenantId": "60ab60e3-72c5-4c88-b004-c3f55a4f4ed5"
+	}
+}
